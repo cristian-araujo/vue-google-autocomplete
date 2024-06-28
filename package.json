@@ -9,7 +9,7 @@
     "url": "https://github.com/olefirenko/vue-google-autocomplete.git"
   },
   "peerDependencies": {
-    "vue": ">=2"
+    "vue": ">=3"
   },
   "keywords": [
     "vue",
